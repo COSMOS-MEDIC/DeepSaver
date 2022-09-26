@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/DeepSaver/static/css/main.ff885ff9.css",
-    "main.js": "/DeepSaver/static/js/main.d5f33106.js",
+    "main.js": "/DeepSaver/static/js/main.f95abac9.js",
     "index.html": "/DeepSaver/index.html",
     "main.ff885ff9.css.map": "/DeepSaver/static/css/main.ff885ff9.css.map",
-    "main.d5f33106.js.map": "/DeepSaver/static/js/main.d5f33106.js.map"
+    "main.f95abac9.js.map": "/DeepSaver/static/js/main.f95abac9.js.map"
   },
   "entrypoints": [
     "static/css/main.ff885ff9.css",
-    "static/js/main.d5f33106.js"
+    "static/js/main.f95abac9.js"
   ]
 }
